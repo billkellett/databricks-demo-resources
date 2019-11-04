@@ -1,2 +1,2 @@
 # databricks-demo-resources
-Files and other resources for Databricks demos
+Files and other resources for Databricks Delta Lake Time Travel demo.
