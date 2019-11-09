@@ -1,5 +1,5 @@
-# databricks-demo-resources
-This project contains Notebooks, Files, and other resources for a Databricks Delta Lake Time Travel demo.
+# databricks-demo-time-travel-resources
+This project contains Notebooks, Files, and other resources for a __Databricks Delta Lake Time Travel demo__.
 
 To install and run this demo in your own Databricks environment:
 
